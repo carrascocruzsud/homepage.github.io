@@ -1,0 +1,29 @@
+/* styles.css */
+main {
+    max-width: 800px; /* Adjust as needed */
+    margin: 0 auto; /* Center the content */
+}
+
+aside {
+    width: 300px; /* Adjust as needed */
+    margin: 20px; /* Spacing around */
+    border: 2px solid #ccc; /* Example border */
+    padding: 10px; /* Inner spacing */
+    background-color: #f9f9f9; /* Background color */
+    color: #333; /* Text color */
+}
+
+aside img {
+    width: 200px; /* Fixed width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+footer {
+    margin-top: 20px; /* Space above */
+    border-top: 2px solid #ccc; /* Top border */
+    text-align: center; /* Center the text */
+}
+
+aside p {
+    padding: 0; /* No padding */
+}
